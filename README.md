@@ -4,7 +4,6 @@ Probability game
 Probability Quest is an educational 3D first-person Unity game that helps students understand the concept of probability and how it is used in real-life situations.
 
 **🎮 Link**
-
 https://cdac.olabs.edu.in/?sub=80&brch=89&sim=986&cnt=4
 
 **🎯 Learning Objectives**
@@ -86,7 +85,7 @@ Educational Unity portfolios
 
 Interactive classroom demos
 
-** 📷 SnapShots**
+**📷 SnapShots**
 
 <img width="293" height="232" alt="image" src="https://github.com/user-attachments/assets/be90ef82-098e-46a2-b270-495e98ba86ca" />
 
