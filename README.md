@@ -1,8 +1,9 @@
-# Probability-Fair-Unity3D
+<img width="270" height="180" alt="image" src="https://github.com/user-attachments/assets/4620ac62-9a5b-48d6-89fa-01fc932de875" /># Probability-Fair-Unity3D
 Probability game
 Probability Quest is an educational 3D first-person Unity game that helps students understand the concept of probability and how it is used in real-life situations.
 
-**🎮 Link **
+**🎮 Link**
+
 https://cdac.olabs.edu.in/?sub=80&brch=89&sim=986&cnt=4
 
 **🎯 Learning Objectives**
