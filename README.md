@@ -85,7 +85,7 @@ Educational Unity portfolios
 
 Interactive classroom demos
 
-<div>
+
 
   **📷 SnapShots**
   
@@ -94,9 +94,7 @@ Interactive classroom demos
   <img width="381" height="209" alt="image" src="https://github.com/user-attachments/assets/041f42bf-6953-4f78-94e5-ec1b436a4814" />
   
   <img width="270" height="180" alt="image" src="https://github.com/user-attachments/assets/ed64c91d-ad05-4bb5-8fad-c7c25ea2f8f9" />
-</div>
 
 
 **⚠️ Note ⚠️**
-
 The game size is 8GB+ So the assets file is not on Github,Game link is in README file for gameplay experiance.
