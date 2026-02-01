@@ -85,14 +85,16 @@ Educational Unity portfolios
 
 Interactive classroom demos
 
-**📷 SnapShots**
+<div>
 
-<img width="293" height="232" alt="image" src="https://github.com/user-attachments/assets/be90ef82-098e-46a2-b270-495e98ba86ca" />
-
-<img width="381" height="209" alt="image" src="https://github.com/user-attachments/assets/041f42bf-6953-4f78-94e5-ec1b436a4814" />
-
-<img width="270" height="180" alt="image" src="https://github.com/user-attachments/assets/ed64c91d-ad05-4bb5-8fad-c7c25ea2f8f9" />
-
+  **📷 SnapShots**
+  
+  <img width="293" height="232" alt="image" src="https://github.com/user-attachments/assets/be90ef82-098e-46a2-b270-495e98ba86ca" />
+  
+  <img width="381" height="209" alt="image" src="https://github.com/user-attachments/assets/041f42bf-6953-4f78-94e5-ec1b436a4814" />
+  
+  <img width="270" height="180" alt="image" src="https://github.com/user-attachments/assets/ed64c91d-ad05-4bb5-8fad-c7c25ea2f8f9" />
+</div>
 
 
 **⚠️ Note ⚠️**
